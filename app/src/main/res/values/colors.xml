@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#448544</color> //上の表題部分
+    <color name="colorPrimaryDark">#22DD4B</color> //一番上のbar
+    <color name="colorAccent">#000000</color>
+</resources>
